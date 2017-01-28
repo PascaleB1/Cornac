@@ -1,0 +1,28 @@
+body{
+	color: inherit;
+}
+
+.navbar-default{
+	background-color: #009999;
+}
+
+.footerColor{
+	background-color: #009999;
+}
+
+a{
+	color: white;
+}
+
+.ul-footer{
+	list-style: none;
+}
+
+td{
+	border: 2px black solid;
+}
+
+table{
+	margin-top: 5%; 
+	margin-bottom: 25%; 
+}
